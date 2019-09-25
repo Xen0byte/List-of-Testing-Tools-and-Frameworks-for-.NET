@@ -1,4 +1,4 @@
-# List of Automated Testing (TDD/BDD/ATDD/SBE) Tools and Frameworks for .NET
+# List Of Automated Testing (TDD/BDD/ATDD/SBE) Tools And Frameworks For .NET
 
 This is a list of Automated Testing Frameworks for .NET related to methodologies and types of tests:
 - Test-Driven Development (TDD)
@@ -13,7 +13,7 @@ Please feel free to suggest changes and/or new tools/frameworks.
 Key:
 * **Bold** — Most Popular / Recommended
 
-# Table of Contents
+# Table Of Contents
 
 - [Unit Testing Frameworks](#unit-testing-frameworks)
 - [Isolation Frameworks](#isolation-frameworks)
@@ -70,7 +70,7 @@ Key:
 | [Rhino Mocks](https://meisinger2.wordpress.com/category/rhino-mocks/) | Discontinued
 | [Typemock Isolator](http://www.typemock.com/isolator-product-page)
 
-# Acceptance Testing / Behavior-Driven Development / Specification by Example
+# Acceptance Testing / Behavior-Driven Development / Specification By Example
 
 | Framework | Comment |
 |-----------|---------|
@@ -239,7 +239,7 @@ Key:
 | [Should Assertion Library](https://github.com/erichexter/Should) | Discontinued
 | [Shouldly](https://github.com/shouldly/shouldly)
 
-# Test Data Builders and Dummy Data Generators
+# Test Data Builders And Dummy Data Generators
 
 | Framework | Comment |
 |-----------|---------|
